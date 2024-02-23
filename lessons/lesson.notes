@@ -1,0 +1,7 @@
+ JavaScript only truly provides dynamic typing - running the code to see what happens.
+
+ The alternative is to use a static type system to make predictions about what the code is expected to do before it runs.
+
+  Static types systems describe the shapes and behaviors of what our values will be when we run our programs. A type-checker like TypeScript uses that information and tells us when things might be going off the rails.
+
+  
